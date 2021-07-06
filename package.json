@@ -1,0 +1,22 @@
+{
+  "name": "@hudadamar21/number_prototype",
+  "version": "1.0.1",
+  "description": "number prototype javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudadamar21/number_prototype.git"
+  },
+  "keywords": [
+    "prototype"
+  ],
+  "author": "hudadamar21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudadamar21/number_prototype/issues"
+  },
+  "homepage": "https://github.com/hudadamar21/number_prototype#readme"
+}
