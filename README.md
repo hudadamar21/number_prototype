@@ -1,5 +1,9 @@
 # Number Prototype
 
+## Installation
+```bash
+npm i @hudadamar21/number_prototype
+```
 
 ## Using
 
